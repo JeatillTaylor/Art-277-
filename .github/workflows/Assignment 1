@@ -1,0 +1,23 @@
+<!Doctype html>
+  <head>
+    <title>Texting Formatting Elements</title>
+    <meta charset="utf-8">
+    <meta name="Jeatill Taylor" content="html"
+    <meta name="refresh" content="html-tag-list"
+    <address>Monrovia,Liberia, New Georgia </address>
+    <bdo>left to right</bdo>
+    <style>
+      <!...important to follow the steps as it is>
+      <h1>who is John
+      body <p> 
+              The name of the boy is <b>John <br>
+              He is a citizen of Liberia<mark><abbr>Lib
+           <\p>
+           
+      <h2>more details about hi
+           <p>
+              John is a medical student <br>
+              He will be turning 34 in December
+           <\p>
+<hr width="100px" align="left"
+      
